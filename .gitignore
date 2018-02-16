@@ -1,3 +1,4 @@
 myKey.txt
 *.html
 .ipynb_checkpoints
+*.csv
